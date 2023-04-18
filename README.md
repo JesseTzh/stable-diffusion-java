@@ -14,4 +14,4 @@ An implementation of a simple stable-diffusion-webui API call.
 > 可以直接使用 gradio.live 的 WebUI 地址调用，启动 webui 程序时必须使用 --api 参数
 ## ✨ 使用
 
-参照[test](https://github.com/JesseTzh/stable-diffusion-java/tree/main/src/main/java/com/jessetzh/test) 中的范例进行调用
+参照 [test](https://github.com/JesseTzh/stable-diffusion-java/tree/main/src/main/java/com/jessetzh/test) 中的范例进行调用
